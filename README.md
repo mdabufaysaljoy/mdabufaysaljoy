@@ -2,7 +2,7 @@
 # Hi there 👋, my name is Faysal Joy
 #### I am a Front-end Developer.
 
-<img src="cover.jpg" />
+
 
 I love to do code.
 
