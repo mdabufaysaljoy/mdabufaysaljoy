@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Hi there 👋, my name is Faysal Joy
 #### I am a Front-end Developer.
 
