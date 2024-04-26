@@ -7,7 +7,7 @@
 I love to do code.
 
 
-Skills: REACT / JS / HTML / CSS / SASS / BOOTSTRAP
+Skills: REACT / JS / HTML / CSS / SASS / BOOTSTRAP / TAILWINDCSS
 
 - 🔭 I’m currently working on React Projects 
 - 🌱 I’m currently learning React JS 
