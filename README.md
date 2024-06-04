@@ -16,7 +16,7 @@ Skills: REACT / JS / HTML / CSS / SASS / BOOTSTRAP / TAILWINDCSS
 - 💬 Ask me about JavaScript 
 - 📫 How to reach me: Facebook, WhatsApp, Discord, Email 
 - 😄 Pronouns: MadMan 
-- ⚡ Fun fact: 16 years old. 
+- ⚡ Fun fact: 17 years old. 
 
 
 ![](https://komarev.com/ghpvc/?username=mdabufaysaljoy)  
