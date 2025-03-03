@@ -1,5 +1,5 @@
 
-# Hi there 👋, my name is Faysal Joy
+# Hi there 👋, my name is Faysal
 #### I am a Front-end Developer.
 
 
@@ -7,10 +7,10 @@
 I love to do code.
 
 
-Skills: REACT / JS / HTML / CSS / SASS / BOOTSTRAP / TAILWINDCSS
+Skills: REACT / JS / HTML / CSS / SASS / BOOTSTRAP / TAILWINDCSS / DAISYUI / FIREBASE / NODEJS / EXPRESSJS / EJS / MONGODB / MONGOOSE
 
 - 🔭 I’m currently working on React Projects 
-- 🌱 I’m currently learning React JS 
+- 🌱 I’m currently learning Node.js
 - 👯 I’m looking to collaborate on GitHub 
 - 🤔 I’m looking for help with React JS 
 - 💬 Ask me about JavaScript 
