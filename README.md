@@ -7,7 +7,7 @@
 I love to do code.
 
 
-Skills: REACT / JS / HTML / CSS / SASS / BOOTSTRAP / TAILWINDCSS / DAISYUI / FIREBASE / NODEJS / EXPRESSJS / EJS / MONGODB / MONGOOSE
+My Skills: REACT / JS  / BOOTSTRAP / TAILWINDCSS / DAISYUI / FIREBASE / NODEJS / EXPRESSJS / MONGODB / MONGOOSE
 
 - 🔭 I’m currently working on React Projects 
 - 🌱 I’m currently learning Node.js
