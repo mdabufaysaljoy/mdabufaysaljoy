@@ -1,6 +1,6 @@
 
-# Hi there 👋, my name is Faysal
-#### I am a Front-end Developer.
+# Hi there 👋, I'm Faysal
+#### A Junior Front-end Developer.
 
 
 
