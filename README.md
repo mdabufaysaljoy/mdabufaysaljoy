@@ -7,7 +7,7 @@
 I love to do code.
 
 
-My Skills: REACT / JS  / BOOTSTRAP / TAILWINDCSS / DAISYUI / FIREBASE / NODEJS / EXPRESSJS / MONGODB / MONGOOSE
+My Skills: REACT | JS | BOOTSTRAP | TAILWINDCSS | DAISYUI | FIREBASE | NODEJS | EXPRESSJS | MONGODB | MONGOOSE
 
 - 🔭 I’m currently working on React Projects 
 - 🌱 I’m currently learning Node.js
@@ -15,8 +15,8 @@ My Skills: REACT / JS  / BOOTSTRAP / TAILWINDCSS / DAISYUI / FIREBASE / NODEJS /
 - 🤔 I’m looking for help with React JS 
 - 💬 Ask me about JavaScript 
 - 📫 How to reach me: Facebook, WhatsApp, Discord, Email 
-- 😄 Pronouns: MadMan 
-- ⚡ Fun fact: 17 years old. 
+- 😄 Pronouns: Little Boy 
+- ⚡ Fun fact: 18 years old. 
 
 
 ![](https://komarev.com/ghpvc/?username=mdabufaysaljoy)  
